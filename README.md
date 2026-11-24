@@ -1,4 +1,10 @@
-## Hi there 👋
+### Hi, I'm Olachi! 👋🌍
+
+I am a **Surveying & Geoinformatics graduate (FUTO)** bridging traditional land measurement with **Geospatial Data Science & GIS Development**. Currently working as a **GIS Intern at Geospatial Research Ltd** while undergoing a 12-month training in full-stack geospatial development, I focus on turning spatial data into actionable environmental and urban insights.
+
+- 🛰️ **Core Stack:** Python, GeoPandas, SQL, QGIS, Earth Observation & Web Mapping
+- 🎥 **Education & Outreach:** Founder of **[Focus with Olachi](https://youtube.com/@focuswitholachi)**, where I share beginner-friendly GIS tutorials and spatial coding workflows
+- 📫 **Connect with me:** [LinkedIn](https://linkedin.com/in/olachiprecious042/)
 
 <!--
 **onyekereolachi1-a11y/onyekereolachi1-a11y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
