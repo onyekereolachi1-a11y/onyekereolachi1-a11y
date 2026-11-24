@@ -1,8 +1,8 @@
 ### Hi, I'm Olachi 👋🌍
 
-A **Surveying & Geoinformatics graduate (FUTO)** expanding my technical foundation into **Geospatial Data Science and GIS Development**. Currently serving as a **GIS Intern at Geospatial Research Ltd** while completing a 12-month **GIS Development** training program, I am developing practical skills in spatial programming, database management, and Earth Observation analytics.
+A **Surveying & Geoinformatics graduate (FUTO)** expanding my technical foundation into **Geospatial Data Science and GIS Development**. Currently serving as a **GIS Intern at Geospatial Research Ltd** for my NYSC year while completing a 12-month **GIS Development** training program, I am developing practical skills in spatial programming, database management, and Earth Observation analytics.
 
-- 🛰️ **Technical Stack:** Python, GeoPandas, SQL, QGIS, Earth Observation & Web Mapping
+- 🛰️ **Technical Stack:** Python, GeoPandas, SQL, ArcGIS, QGIS, Earth Observation & Web Mapping
 - 🎥 **Educational Outreach:** Founder of **[Focus with Olachi](https://youtube.com/@focuswitholachi)**, an educational YouTube channel dedicated to beginner-friendly GIS tutorials and spatial data workflows
 - 📫 **Professional Network:** [LinkedIn](https://linkedin.com/in/olachiprecious042/)
 
